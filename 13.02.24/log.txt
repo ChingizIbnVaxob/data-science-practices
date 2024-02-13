@@ -1,0 +1,388 @@
+[2024.02.13 14:29:53] Launched version: 4014013, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2024.02.13 14:29:53] Executable dir: C:/Users/INHA/Downloads/, name: AyuGram.exe
+[2024.02.13 14:29:53] Initial working dir: C:/WINDOWS/system32/
+[2024.02.13 14:29:53] Working dir: C:/Users/INHA/Downloads/
+[2024.02.13 14:29:53] Command line: C:\Users\INHA\Downloads\AyuGram.exe
+[2024.02.13 14:29:53] Executable path before check: C:/Users/INHA/Downloads/AyuGram.exe
+[2024.02.13 14:29:53] Logs started
+[2024.02.13 14:29:53] AppUserModelID: Telegram.TelegramDesktop.71d9514ff8bcd62d0b351991a025e065
+[2024.02.13 14:29:53] Connecting local socket to Global\3475e03597c86d7535b44001e380f85a-{87A94AB0-E370-4cde-98D3-ACC110C59666}...
+[2024.02.13 14:29:53] This is the only instance of Telegram, starting server and app...
+[2024.02.13 14:29:53] Moved logging from 'C:/Users/INHA/Downloads/log_start0.txt' to 'C:/Users/INHA/Downloads/log.txt'!
+[2024.02.13 14:29:53] Opened 'C:/Users/INHA/Downloads/tdata/working' for reading, the previous AyuGram Desktop launch was not finished properly :( Crash log size: 432
+[2024.02.13 14:29:53] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2024.02.13 14:29:53] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2024.02.13 14:29:53] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2024.02.13 14:29:53] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2024.02.13 14:29:54] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2024.02.13 14:29:55] App Error: _basePath is empty in writeSettings()
+[2024.02.13 14:30:06] Global devicePixelRatio: 1
+[2024.02.13 14:30:06] QT_DPI_ADJUSTMENT_POLICY: AdjustDpi
+[2024.02.13 14:30:06] Primary screen DPI: 96, Base: 96.
+[2024.02.13 14:30:06] Computed screen scale: 100
+[2024.02.13 14:30:06] DevicePixelRatio: 1
+[2024.02.13 14:30:06] ScreenScale: 100
+[2024.02.13 14:30:06] Media Info: Type Playback, default: {0.0.0.00000000}.{c24cf138-bbc3-4bf6-a4ce-2003edc5eb7c}, list: { "LED MONITOR (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{0d35011b-db71-4cda-8975-8378a0af834d}>, "스피커 (High Definition Audio Device)" <{0.0.0.00000000}.{1d91c47e-d713-4160-97ee-fc74b720d03f}>, "Headphones (High Definition Audio Device)" <{0.0.0.00000000}.{36b15970-8c74-4e90-add2-b57ee891bc0b}>, "스피커 (Realtek(R) Audio)" <{0.0.0.00000000}.{3cd92c76-0cec-4053-8d90-a1bd16ce5f6e}>, "Digital Audio (HDMI) (High Definition Audio Device)" <{0.0.0.00000000}.{438a699d-6c30-4c83-8e09-37dfcc92362e}>, "Digital Audio (HDMI) (High Definition Audio Device)" <{0.0.0.00000000}.{47d90434-0cb6-45f0-9a5a-7220282790d5}>, "LED MONITOR (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{48526321-2387-45a3-b561-ab9435a53c2e}>, "Digital Audio (HDMI) (High Definition Audio Device)" <{0.0.0.00000000}.{799cbfa4-89f9-4c77-b2be-a3686332c0f8}>, "Digital Audio (HDMI) (High Definition Audio Device)" <{0.0.0.00000000}.{8bd31231-610d-4227-9767-4514bbec8b5f}>, "LG TV (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{9208838a-cb33-40f3-88d2-00921bd8d4c3}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.0.00000000}.{92b5f543-b410-4f78-9e6c-093df030589d}>, "DigitalOutput (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{a1ebd610-7d5d-4195-90f4-eb2019466da7}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.0.00000000}.{b5277dc7-1952-4329-9b42-7ca8109addaa}>, "Realtek HD Audio 2nd output (Realtek(R) Audio)" <{0.0.0.00000000}.{c24cf138-bbc3-4bf6-a4ce-2003edc5eb7c}>, "LED MONITOR (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{d523d57e-5fe5-4902-9fff-be9246ff7c0e}>, "NVIDIA Output (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{f2f83e04-42fa-44de-8a04-f7c521f54c02}> }, full list refresh: false
+[2024.02.13 14:30:06] Media Info: Type Capture, default: {0.0.1.00000000}.{6620b5f7-d588-468a-97bf-f1f78731116c}, list: { "내부 AUX 잭 (NVIDIA High Definition Audio)" <{0.0.1.00000000}.{0557459a-7344-4e5b-bdca-769cb74c6219}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.1.00000000}.{099d8130-cb50-4379-86bc-79ae7a854691}>, "Subwoofer (Realtek(R) Audio)" <{0.0.1.00000000}.{18cfe9af-8160-4c07-b201-d1cdbc793179}>, "Rear Blue In (Realtek(R) Audio)" <{0.0.1.00000000}.{2a8f6517-467b-4c51-83d8-af03e8cf4148}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.1.00000000}.{381f7196-32ab-4c7b-8c1e-33076f1d8797}>, "Front Green In (Realtek(R) Audio)" <{0.0.1.00000000}.{52a6b91f-8c3a-4514-937f-fa15dc44680c}>, "Front Pink In (Realtek(R) Audio)" <{0.0.1.00000000}.{531915c3-6c62-4391-8da9-c7a2301883b5}>, "Rear Green In (Realtek(R) Audio)" <{0.0.1.00000000}.{599b032b-b71e-4a81-808e-b864a8eacedb}>, "Center (Realtek(R) Audio)" <{0.0.1.00000000}.{5a6604b3-e69e-48ba-b760-6839394b92b9}>, "Rear Pink In (Realtek(R) Audio)" <{0.0.1.00000000}.{5a71d0ba-545e-4e1b-8dbd-3271958fb84f}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.1.00000000}.{5eff923d-d00d-48df-9547-1181eaf50acd}>, "스테레오 믹스 (Realtek(R) Audio)" <{0.0.1.00000000}.{6620b5f7-d588-468a-97bf-f1f78731116c}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.1.00000000}.{799f580f-df5b-4d71-a379-345aedbf05e4}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.1.00000000}.{93d32707-aac5-4ee8-ac22-13297305d3d6}>, "Side (Realtek(R) Audio)" <{0.0.1.00000000}.{a13dc5fb-46d0-4ef9-9d29-00f7b3867b82}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{ae72194b-ea44-43a2-842d-3927f8886b43}>, "라인 입력 (Realtek(R) Audio)" <{0.0.1.00000000}.{b0e5d6d3-9b34-4fd8-bb99-0b73db339d31}>, "내부 AUX 잭 (High Definition Audio Device)" <{0.0.1.00000000}.{b6b962e8-9451-4b7f-b620-57893470d64b}>, "Line In (High Definition Audio Device)" <{0.0.1.00000000}.{c62b675b-7a8b-4395-8967-e9469212e2c7}>, "Rear (Realtek(R) Audio)" <{0.0.1.00000000}.{da9a5051-5539-4daf-b28a-e9b5ca96c004}>, "마이크 (Realtek(R) Audio)" <{0.0.1.00000000}.{ec86cc6f-0204-4cc2-9bdb-b30bd519737d}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{f1a8b713-5563-4995-946b-fe7bcb88dd6f}>, "내부 AUX 잭 (NVIDIA High Definition Audio)" <{0.0.1.00000000}.{f1c125e8-a70d-459a-927a-c85d681b0360}>, "Front (Realtek(R) Audio)" <{0.0.1.00000000}.{f66357a4-677e-4379-bd97-6191be0a5c27}> }, full list refresh: false
+[2024.02.13 14:30:06] Media Error: Can't sync default device for type Camera, default: , list: {  }
+[2024.02.13 14:30:06] Using DirectX compiler 'C:\WINDOWS\SYSTEM32\d3dcompiler_47.dll'.
+[2024.02.13 14:30:06] App Info: reading settings...
+[2024.02.13 14:30:06] App Info: reading encrypted settings...
+[2024.02.13 14:30:06] Lang Info: Loaded cached, keys: 6171
+[2024.02.13 14:30:06] Lang ID not found! Re-use old language pack...
+[2024.02.13 14:30:06] OpenAL Logging Level: (not set)
+[2024.02.13 14:30:06] App Info: reading accounts info...
+[2024.02.13 14:30:06] App Info: reading encrypted info...
+[2024.02.13 14:30:06] App Info: reading map...
+[2024.02.13 14:30:06] App Info: reading encrypted map...
+[2024.02.13 14:30:06] App Info: reading encrypted user settings...
+[2024.02.13 14:30:06] App Info: encrypted user settings read.
+[2024.02.13 14:30:06] App Info: reading encrypted mtp data...
+[2024.02.13 14:30:06] MTP Info: read keys, current: 4, to destroy: 0
+[2024.02.13 14:30:06] Map read time: 1
+[2024.02.13 14:30:06] App Info: reading encrypted mtp config...
+[2024.02.13 14:30:06] App Info: reading map...
+[2024.02.13 14:30:06] App Info: reading encrypted map...
+[2024.02.13 14:30:06] App Info: reading encrypted user settings...
+[2024.02.13 14:30:06] App Info: encrypted user settings read.
+[2024.02.13 14:30:06] App Info: reading encrypted mtp data...
+[2024.02.13 14:30:06] MTP Info: read keys, current: 4, to destroy: 0
+[2024.02.13 14:30:06] Map read time: 1
+[2024.02.13 14:30:06] App Info: reading encrypted mtp config...
+[2024.02.13 14:30:06] Export Info: Destroy top bar by controller removal.
+[2024.02.13 14:30:06] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2024.02.13 14:30:06] OpenGL Profile: OpenGLES.
+[2024.02.13 14:30:06] OpenGL Renderer: ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 Ti Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.15.4612)
+[2024.02.13 14:30:06] OpenGL Vendor: Google Inc. (NVIDIA)
+[2024.02.13 14:30:06] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.10 git hash: e3f59e8d0c3e)
+[2024.02.13 14:30:06] OpenGL Extensions: GL_EXT_EGL_image_external_wrap_modes, GL_EXT_texture_rg, GL_OES_compressed_ETC2_RGB8_texture, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_OES_compressed_ETC2_sRGB8_texture, GL_OES_fbo_render_mipmap, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_WEBGL_video_texture, GL_CHROMIUM_sync_query, GL_EXT_sRGB, GL_ANGLE_request_extension, GL_OES_element_index_uint, GL_ANGLE_get_tex_level_parameter, GL_OES_EGL_image_external, GL_OES_EGL_image_external_essl3, GL_ANGLE_shader_pixel_local_storage, GL_EXT_read_format_bgra, GL_OES_depth24, GL_EXT_conservative_depth, GL_EXT_texture_norm16, GL_NV_shader_noperspective_interpolation, GL_ANGLE_copy_texture_3d, GL_ANGLE_multi_draw, GL_EXT_instanced_arrays, GL_EXT_render_snorm, GL_EXT_draw_buffers_indexed, GL_EXT_polygon_offset_clamp, GL_OES_texture_stencil8, GL_EXT_unpack_subimage, GL_ANGLE_polygon_mode, GL_EXT_draw_buffers, GL_ANGLE_base_vertex_base_instance, GL_NV_pack_subimage, GL_OES_compressed_EAC_R11_unsigned_texture, GL_EXT_occlusion_query_boolean, GL_EXT_texture_mirror_clamp_to_edge, GL_ANGLE_shader_pixel_local_storage_coherent, GL_CHROMIUM_bind_generates_resource, GL_EXT_texture_type_2_10_10_10_REV, GL_OES_EGL_image, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_EXT_robustness, GL_OES_rgb8_rgba8, GL_ANGLE_texture_multisample, GL_ANGLE_framebuffer_multisample, GL_EXT_texture_compression_s3tc_srgb, GL_ANGLE_multiview_multisample, GL_ANGLE_instanced_arrays, GL_EXT_shader_texture_lod, , GL_ANGLE_texture_usage, GL_OES_packed_depth_stencil, GL_OES_texture_float_linear, GL_OVR_multiview2, GL_CHROMIUM_bind_uniform_location, GL_KHR_debug, GL_ANGLE_provoking_vertex, GL_EXT_blend_func_extended, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_ANGLE_framebuffer_blit, GL_CHROMIUM_lose_context, GL_EXT_color_buffer_float, GL_ANGLE_renderability_validation, GL_OES_compressed_EAC_R11_signed_texture, GL_EXT_texture_border_clamp, GL_OES_surfaceless_context, GL_ANGLE_stencil_texturing, GL_ANGLE_texture_compression_dxt3, GL_EXT_map_buffer_range, GL_NV_EGL_stream_consumer_external, GL_EXT_float_blend, GL_NV_fence, GL_OES_compressed_ETC2_RGBA8_texture, GL_OES_draw_elements_base_vertex, GL_OES_vertex_array_object, GL_ANGLE_get_serialized_context_string, GL_EXT_texture_compression_dxt1, GL_ANGLE_translated_shader_source, GL_ANGLE_memory_size, GL_ANGLE_pack_reverse_row_order, GL_EXT_multi_draw_indirect, GL_ANGLE_client_arrays, GL_CHROMIUM_copy_texture, GL_OES_draw_buffers_indexed, GL_EXT_clip_cull_distance, GL_OES_shader_multisample_interpolation, GL_ANGLE_depth_texture, GL_OES_texture_border_clamp, GL_NV_pixel_buffer_object, GL_EXT_draw_elements_base_vertex, GL_EXT_texture_compression_bptc, GL_OES_standard_derivatives, GL_ANGLE_texture_compression_dxt5, GL_AMD_performance_monitor, GL_EXT_base_instance, GL_EXT_discard_framebuffer, GL_ANGLE_base_vertex_base_instance_shader_builtin, GL_EXT_frag_depth, GL_OES_texture_float, GL_OES_get_program_binary, GL_EXT_texture_format_BGRA8888, GL_OES_sample_variables, GL_KHR_parallel_shader_compile, GL_OES_compressed_EAC_RG11_signed_texture, GL_OES_mapbuffer, GL_EXT_texture_filter_anisotropic, GL_ANGLE_lossy_etc_decode, GL_EXT_texture_compression_rgtc, GL_OVR_multiview, GL_CHROMIUM_copy_compressed_texture, GL_EXT_color_buffer_half_float, GL_EXT_texture_storage, GL_ANGLE_program_cache_control, GL_APPLE_clip_distance, GL_ANGLE_clip_cull_distance, GL_EXT_depth_clamp, GL_ANGLE_robust_client_memory, GL_EXT_debug_marker, GL_OES_texture_half_float_linear, GL_OES_texture_npot, GL_NV_framebuffer_blit, GL_EXT_disjoint_timer_query, GL_EXT_blend_minmax, GL_EXT_debug_label, GL_OES_depth32, GL_OES_texture_half_float, GL_EXT_clip_control, GL_EXT_multisampled_render_to_texture
+[2024.02.13 14:30:06] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_no_config_context, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2024.02.13 14:30:06] OpenGL: QOpenGLContext created, version: 3.3.
+[2024.02.13 14:30:06] OpenGL: [TRUE] (Window)
+[2024.02.13 14:30:09] [AyuGram] Sent offline for account with uid 6685272215, invalidate 0
+[2024.02.13 14:30:09] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:09] Message Info: bad message notification received (error_code 33) for msg_id = 7334954638414759720, seq_no = 66
+[2024.02.13 14:30:09] Message Info: bad message notification received, msgId 7334954638414759720, error_code 33
+[2024.02.13 14:30:09] Message Info: bad message notification received (error_code 33) for msg_id = 7334954638983996140, seq_no = 55
+[2024.02.13 14:30:09] Message Info: bad message notification received, msgId 7334954638983996140, error_code 33
+[2024.02.13 14:30:11] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:30:13] RPC Error: request 85 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2024.02.13 14:30:19] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:30:21] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:21] Audio Info: Closing audio playback device.
+[2024.02.13 14:30:24] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:27] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:30] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:32] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:30:33] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:34] Audio Info: Closing audio playback device.
+[2024.02.13 14:30:36] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:39] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:42] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:45] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:30:48] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:31:00] [AyuGram] Sent offline for account with uid 6685272215, invalidate 1
+[2024.02.13 14:31:00] [AyuGram] Sent offline for account with uid 2085053135, invalidate 1
+[2024.02.13 14:31:03] [AyuGram] Sent offline for account with uid 6685272215, invalidate 1
+[2024.02.13 14:31:03] [AyuGram] Sent offline for account with uid 2085053135, invalidate 1
+[2024.02.13 14:31:06] [AyuGram] Sent offline for account with uid 6685272215, invalidate 1
+[2024.02.13 14:31:06] [AyuGram] Sent offline for account with uid 2085053135, invalidate 1
+[2024.02.13 14:31:09] [AyuGram] Sent offline for account with uid 6685272215, invalidate 1
+[2024.02.13 14:31:09] [AyuGram] Sent offline for account with uid 2085053135, invalidate 1
+[2024.02.13 14:32:57] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:32:57] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:33:28] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:33:30] Audio Info: Closing audio playback device.
+[2024.02.13 14:36:20] RPC Error: request 220 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 14:36:21] Message Info: bad message notification received (error_code 33) for msg_id = 7334956236211420656, seq_no = 284
+[2024.02.13 14:36:21] Message Info: bad message notification received, msgId 7334956236211420656, error_code 33
+[2024.02.13 14:38:22] App Info: writing encrypted user settings...
+[2024.02.13 14:38:26] App Info: writing encrypted user settings...
+[2024.02.13 14:38:30] App Info: writing encrypted user settings...
+[2024.02.13 14:40:05] Theme Warning: Skipping value 'mediaviewSaveMsgBg: toastBg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:05] Theme Warning: Skipping value 'mediaviewSaveMsgFg: toastFg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:05] Theme Warning: Skipping value 'importantTooltipBg: toastBg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:05] Theme Warning: Skipping value 'importantTooltipFg: toastFg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:05] Theme Warning: Skipping value 'importantTooltipFgLink: mediaviewTextLinkFg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:16] Theme Warning: Skipping value 'mediaviewSaveMsgBg: toastBg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:16] Theme Warning: Skipping value 'mediaviewSaveMsgFg: toastFg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:16] Theme Warning: Skipping value 'importantTooltipBg: toastBg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:16] Theme Warning: Skipping value 'importantTooltipFg: toastFg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:40:16] Theme Warning: Skipping value 'importantTooltipFgLink: mediaviewTextLinkFg' (expected a color value in #rrggbb or #rrggbbaa or a previously defined key in the color scheme)
+[2024.02.13 14:41:50] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:41:52] Audio Info: Closing audio playback device.
+[2024.02.13 14:41:55] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:41:57] Audio Info: Closing audio playback device.
+[2024.02.13 14:42:01] Message Info: bad message notification received (error_code 33) for msg_id = 7334957696661527948, seq_no = 34
+[2024.02.13 14:42:01] Message Info: bad message notification received, msgId 7334957696661527948, error_code 33
+[2024.02.13 14:42:01] Message Info: bad message notification received (error_code 33) for msg_id = 7334957696538260812, seq_no = 18
+[2024.02.13 14:42:01] Message Info: bad message notification received, msgId 7334957696538260812, error_code 33
+[2024.02.13 14:53:34] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:37] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:40] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:43] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:46] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:49] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:52] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:55] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:53:58] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:54:01] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 14:57:37] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:57:39] Audio Info: Closing audio playback device.
+[2024.02.13 14:57:46] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:57:48] Audio Info: Closing audio playback device.
+[2024.02.13 14:58:07] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:58:09] Audio Info: Closing audio playback device.
+[2024.02.13 14:58:10] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 14:58:12] Audio Info: Closing audio playback device.
+[2024.02.13 14:59:32] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:59:32] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:59:32] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:59:32] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:59:32] API Warning: not loaded minimal channel applied.
+[2024.02.13 14:59:32] API Warning: not loaded minimal channel applied.
+[2024.02.13 15:01:17] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:20] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:23] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:26] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:29] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:32] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:35] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:38] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:01:41] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:05:29] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:05:31] Audio Info: Closing audio playback device.
+[2024.02.13 15:05:35] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:05:37] Audio Info: Closing audio playback device.
+[2024.02.13 15:08:45] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:08:47] Audio Info: Closing audio playback device.
+[2024.02.13 15:10:30] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:10:32] Audio Info: Closing audio playback device.
+[2024.02.13 15:11:15] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:11:17] Audio Info: Closing audio playback device.
+[2024.02.13 15:11:29] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:11:31] Audio Info: Closing audio playback device.
+[2024.02.13 15:11:39] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:11:41] Audio Info: Closing audio playback device.
+[2024.02.13 15:12:05] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:12:07] Audio Info: Closing audio playback device.
+[2024.02.13 15:13:45] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:13:47] Audio Info: Closing audio playback device.
+[2024.02.13 15:14:07] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:10] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:13] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:16] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:19] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:22] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:25] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:28] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:31] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:34] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:37] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:14:39] RPC Error: request 688 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:14:42] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:14:44] Audio Info: Closing audio playback device.
+[2024.02.13 15:14:47] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:14:49] Audio Info: Closing audio playback device.
+[2024.02.13 15:16:18] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:16:20] Audio Info: Closing audio playback device.
+[2024.02.13 15:21:07] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:21:09] Audio Info: Closing audio playback device.
+[2024.02.13 15:21:27] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:21:29] Audio Info: Closing audio playback device.
+[2024.02.13 15:23:35] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:23:37] Audio Info: Closing audio playback device.
+[2024.02.13 15:23:57] RPC Error: request 719 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:28:51] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:28:53] Audio Info: Closing audio playback device.
+[2024.02.13 15:29:09] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:29:11] Audio Info: Closing audio playback device.
+[2024.02.13 15:30:11] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:30:13] Audio Info: Closing audio playback device.
+[2024.02.13 15:30:54] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:30:56] Audio Info: Closing audio playback device.
+[2024.02.13 15:31:26] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:31:28] Audio Info: Closing audio playback device.
+[2024.02.13 15:31:33] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:31:35] Audio Info: Closing audio playback device.
+[2024.02.13 15:31:52] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:31:54] Audio Info: Closing audio playback device.
+[2024.02.13 15:32:18] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:32:20] Audio Info: Closing audio playback device.
+[2024.02.13 15:32:28] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:32:30] Audio Info: Closing audio playback device.
+[2024.02.13 15:32:39] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:32:41] Audio Info: Closing audio playback device.
+[2024.02.13 15:33:17] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:33:19] Audio Info: Closing audio playback device.
+[2024.02.13 15:33:27] RPC Error: request 761 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:34:50] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:34:52] Audio Info: Closing audio playback device.
+[2024.02.13 15:35:19] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:35:22] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:35:25] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:35:28] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:35:31] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:35:34] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:36:27] Skipping message, because it is already in blocks!
+[2024.02.13 15:36:28] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:36:45] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:36:55] Audio Info: Closing audio playback device.
+[2024.02.13 15:36:58] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:37:07] Audio Info: Closing audio playback device.
+[2024.02.13 15:37:11] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:37:25] Audio Info: Closing audio playback device.
+[2024.02.13 15:37:27] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:37:41] Audio Info: Closing audio playback device.
+[2024.02.13 15:38:04] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:38:04] Skipping message, because it is already in blocks!
+[2024.02.13 15:38:07] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:38:44] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:38:46] Audio Info: Closing audio playback device.
+[2024.02.13 15:38:48] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:38:50] Audio Info: Closing audio playback device.
+[2024.02.13 15:39:07] RPC Error: request 929 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:39:45] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:39:47] Audio Info: Closing audio playback device.
+[2024.02.13 15:39:57] RPC Error: request 938 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:40:30] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:40:32] Audio Info: Closing audio playback device.
+[2024.02.13 15:40:39] RPC Error: request 947 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:41:20] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:41:22] Audio Info: Closing audio playback device.
+[2024.02.13 15:41:29] RPC Error: request 985 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:43:11] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:43:13] Audio Info: Closing audio playback device.
+[2024.02.13 15:43:13] RPC Error: request 995 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:44:50] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:44:52] Audio Info: Closing audio playback device.
+[2024.02.13 15:45:08] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:45:10] Audio Info: Closing audio playback device.
+[2024.02.13 15:45:17] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:45:25] Audio Info: Closing audio playback device.
+[2024.02.13 15:45:25] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:45:29] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:45:30] Audio Info: Closing audio playback device.
+[2024.02.13 15:45:30] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:45:32] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:45:35] Audio Info: Closing audio playback device.
+[2024.02.13 15:45:44] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:45:44] RPC Error: request 1026 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:45:47] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:45:48] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:45:50] Audio Info: Closing audio playback device.
+[2024.02.13 15:45:56] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:46:03] Audio Info: Closing audio playback device.
+[2024.02.13 15:46:08] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:46:21] Audio Info: Closing audio playback device.
+[2024.02.13 15:46:25] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:46:32] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:46:35] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:46:42] Audio Info: Closing audio playback device.
+[2024.02.13 15:46:53] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:46:56] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:46:59] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:02] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:02] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:47:05] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:08] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:09] App Info: writing encrypted user settings...
+[2024.02.13 15:47:11] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:14] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:17] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:19] Message Info: bad message notification received (error_code 33) for msg_id = 7334974524925722056, seq_no = 109
+[2024.02.13 15:47:19] Message Info: bad message notification received, msgId 7334974524925722056, error_code 33
+[2024.02.13 15:47:19] Audio Info: Closing audio playback device.
+[2024.02.13 15:47:20] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:55] Skipping message, because it is already in blocks!
+[2024.02.13 15:47:56] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:47:57] RPC Error: request 1284 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 15:48:45] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:48:47] Audio Info: Closing audio playback device.
+[2024.02.13 15:49:29] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:49:31] Audio Info: Closing audio playback device.
+[2024.02.13 15:49:56] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:49:58] Audio Info: Closing audio playback device.
+[2024.02.13 15:50:14] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:50:37] Audio Info: Closing audio playback device.
+[2024.02.13 15:50:38] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:50:40] Audio Info: Closing audio playback device.
+[2024.02.13 15:50:41] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:50:51] Audio Info: Closing audio playback device.
+[2024.02.13 15:50:52] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:51:13] Audio Info: Closing audio playback device.
+[2024.02.13 15:51:29] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:32] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:35] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:38] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:41] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:44] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:47] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:51:47] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:50] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:53] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 15:51:58] Audio Info: Closing audio playback device.
+[2024.02.13 15:52:03] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:52:10] Audio Info: Closing audio playback device.
+[2024.02.13 15:52:54] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:52:56] Audio Info: Closing audio playback device.
+[2024.02.13 15:56:44] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 15:56:46] Audio Info: Closing audio playback device.
+[2024.02.13 16:01:54] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:01:56] Audio Info: Closing audio playback device.
+[2024.02.13 16:02:12] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:02:13] Audio Info: Closing audio playback device.
+[2024.02.13 16:02:28] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:02:30] Audio Info: Closing audio playback device.
+[2024.02.13 16:02:57] RPC Error: request 1329 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 16:03:57] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:03:59] Audio Info: Closing audio playback device.
+[2024.02.13 16:04:58] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:05:02] Audio Info: Closing audio playback device.
+[2024.02.13 16:05:03] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:05:08] Audio Info: Closing audio playback device.
+[2024.02.13 16:05:19] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:05:21] Audio Info: Closing audio playback device.
+[2024.02.13 16:06:21] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:06:23] Audio Info: Closing audio playback device.
+[2024.02.13 16:09:34] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:09:36] Audio Info: Closing audio playback device.
+[2024.02.13 16:09:39] RPC Error: request 1391 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 16:12:39] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:12:41] Audio Info: Closing audio playback device.
+[2024.02.13 16:14:28] RPC Error: request 1473 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 16:17:35] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:17:37] Audio Info: Closing audio playback device.
+[2024.02.13 16:23:15] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:23:17] Audio Info: Closing audio playback device.
+[2024.02.13 16:28:07] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:28:09] Audio Info: Closing audio playback device.
+[2024.02.13 16:29:49] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:29:51] Audio Info: Closing audio playback device.
+[2024.02.13 16:30:03] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:30:05] Audio Info: Closing audio playback device.
+[2024.02.13 16:30:05] RPC Error: request 1492 got fail with code 400, error PEER_ID_INVALID
+[2024.02.13 16:30:06] Message Info: bad message notification received (error_code 33) for msg_id = 7334985550147294820, seq_no = 1706
+[2024.02.13 16:30:06] Message Info: bad message notification received, msgId 7334985550147294820, error_code 33
+[2024.02.13 16:30:40] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:30:42] Audio Info: Closing audio playback device.
+[2024.02.13 16:30:51] Audio Info: recreating audio device and reattaching the tracks
+[2024.02.13 16:30:53] Audio Info: Closing audio playback device.
+[2024.02.13 16:33:42] Streaming Error: Error in avformat_open_input (code: -1094995529, text: Invalid data found when processing input).
+[2024.02.13 16:33:53] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:33:56] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:33:59] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:34:02] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:34:05] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:34:08] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:34:11] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:34:14] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:34:17] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
+[2024.02.13 16:34:20] [AyuGram] Sent offline for account with uid 2085053135, invalidate 0
